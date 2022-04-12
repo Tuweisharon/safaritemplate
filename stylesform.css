@@ -1,0 +1,19 @@
+.forms{
+    background-color: black;
+    color: white;
+    line-height: 2.5;
+    width: 20%;
+    height: 40%;
+    padding: 10px;
+}
+.submit{
+    background-color: red;
+    color: white;
+    border: black;
+}
+#message{
+    background-color: aqua;
+}
+#privacy{
+    color: white;
+}
